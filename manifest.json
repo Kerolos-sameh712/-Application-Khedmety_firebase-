@@ -1,0 +1,25 @@
+{
+  "name": "كنيسة الأنبا أنطونيوس - خدمتي",
+  "short_name": "خدمتي",
+  "description": "تطبيق متابعة خدمة مدارس الأحد - كنيسة الأنبا أنطونيوس",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f0e2",
+  "theme_color": "#0f1c45",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
